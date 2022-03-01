@@ -1,5 +1,8 @@
 # wall-mount-calculator
 
+## Example
+![Example calculation](images/example.png?raw=true)
+
 ## Project setup
 ```
 npm install
